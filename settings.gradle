@@ -1,0 +1,2 @@
+rootProject.name='Sow_Fin_Etude'
+include ':app'

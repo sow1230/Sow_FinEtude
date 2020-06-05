@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RTO MANAGEMENT</string>
+    <string name="signup">S\'inscrire</string>
+    <string name="dont_have_an_account">Nouveau ? </string>
+    <string name="login">Connexion</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="emailse">Email</string>
+    <string name="username">Nom D\'utilisateur</string>
+    <string name="emails">Email</string>
+    <string name="enter_a_new_password">Entrer un nouveau mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="register"><![CDATA[ Continuer —> ]]></string>
+    <string name="already_have_an_account">Déjà insscrit ?</string>
+    <string name="Inscription">Inscription</string>
+    <string name="menu">Menu</string>
+    <string name="enter_image_name">Enter Image Name…</string>
+    <string name="_0_0">0.0 %</string>
+    <string name="telecharger">Telecharger</string>
+    <string name="todo">TODO</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="svp_veuillez_remplir_les_informations_du_vehicule">Svp Veuillez remplir les informations du vehicule</string>
+    <string name="deconnexion">Deconnexion</string>
+    <string name="profil">Profil</string>
+    <string name="homes">Home</string>
+    <string name="utilisateures">Utilisateurs</string>
+    <string name="profiles">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="utilisateurs">Developpement en cours </string>
+    <string name="noms">Nom</string>
+    <string name="todos">TODO</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot De passe</string>
+    <string name="choisir">Choisir</string>
+    <string name="choose">Choose</string>
+    <string name="upload">Upload</string>
+    <string name="ajouter_votre_permis">Ajouter votre permis</string>
+    <string name="inserer_votre_carte_grise">Inserer votre carte grise</string>
+    <string name="ajouter_votre_assurance">Ajouter votre Assurance</string>
+    <string name="inserer_un_pv_de_controle">Inserer un PV de controle</string>
+    <string name="enregistrerrr">Enregistrer</string>
+    <string name="entrez_le_numero_du_vehicule" tools:ignore="Typos">Entrez le numero du vehicule</string>
+    <string name="entrez_le_nom_du_vehicule" tools:ignore="Typos">Entrez le nom du vehicule</string>
+    <string name="connexion">Inscription</string>
+    <string name="retour"><![CDATA[<— Retour]]></string>
+    <string name="signned_out">Signed Out</string>
+    <string name="phone_number">Phone number</string>
+    <string name="send_code">Send Code</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="code">Code</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="signn_out">Sign Out</string>
+    <string name="vd">Signed Out</string>
+    <string name="jk">Signed In</string>
+    <string name="jl">Signed In</string>
+    <string name="bv">Signed Out</string>
+    <string name="uploadq">Upload</string>
+    <string name="suivantq"><![CDATA[Suivant -->]]></string>
+    <string name="title_activity_userprofile">UserprofileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="s">Fichier Téléchargé avec succès !! </string>
+    <string name="retourd"><![CDATA[<-- Retour]]></string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539397223828",
+    "firebase_url": "https://sow-fin-etude.firebaseio.com",
+    "project_id": "sow-fin-etude",
+    "storage_bucket": "sow-fin-etude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539397223828:android:125a81de0442f562af4b81",
+        "android_client_info": {
+          "package_name": "sow.elhadj.sow_fin_etude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539397223828-7cggld2o4ae3fo2vb3mbfm150f085ktv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Ct7WQJmFjZWu8kyFaH36C3W0k7KCS-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539397223828-7cggld2o4ae3fo2vb3mbfm150f085ktv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

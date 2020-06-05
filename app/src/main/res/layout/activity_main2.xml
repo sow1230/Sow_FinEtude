@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#DFAF2C"
+    tools:context=".Main2Activity">
+    <TextView
+        android:id="@+id/permis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#0000ff"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:text="Veuillez inserer votre pv de controle technique"
+        />
+
+
+    <Button
+        android:id="@+id/button_choose_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/permis"
+        android:text="Choisir une image" />
+
+    <EditText
+        android:id="@+id/edit_text_file_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/permis"
+        android:layout_marginStart="16dp"
+        android:layout_toEndOf="@+id/button_choose_image"
+        android:hint="Enter file name"
+        android:autofillHints=""
+        tools:ignore="TextFields" />
+
+    <ImageView
+        android:id="@+id/image_view"
+
+        android:layout_width="500dp"
+        android:layout_height="500dp"
+        android:layout_below="@id/edit_text_file_name"
+        android:layout_marginTop="16dp"
+        tools:ignore="ContentDescription" />
+
+    <Button
+        android:id="@+id/button_upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_view"
+        android:layout_centerHorizontal="true"
+        android:text="Telecharger" />
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_upload"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/saves"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="#FFFF00"
+        android:text="Terminer-->"
+        android:layout_below="@id/progress_bar"
+
+        />
+
+
+</RelativeLayout>
